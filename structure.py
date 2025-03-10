@@ -22,3 +22,14 @@
 # ===============================================================
 # Quiz Module XXX: This contains the answers to my end of module quiz
 # ===============================================================
+
+
+
+To update files to git do:
+# Go to the correct directory
+cd C:\Users\Lenovo User\Desktop\Natasha_Python\DofE_Skills_Python
+# Make a commit and add message about what is new since last commit
+git commit -m "Add message here"
+git branch -M main
+git remote add origin https://github.com/Tasha4810/DofE-Python.git
+git push -u origin main

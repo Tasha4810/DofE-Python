@@ -2,3 +2,9 @@
 Update: 23 February 2025
 #=====================================================================#
 Hey James this is Natasha. Sorry that this first update has taken so long for me to send you but so far I have completed up until part way through module 2. I have completed the day 1,2 and 3 videos as well as making all of the programs. I have uploaded these to my git account.
+
+#=====================================================================#
+Update: 10 March 2025
+#=====================================================================#
+Hey James this is Natasha. This is my second update. Since my last I have worked on the day 4 video for the 100 days of code challenge that is incorporated into my course. As well as this I have created a separate story writing program for you to assess where I used inputs and variables from the user to help create a short story. As part of this task I added in some code to make bits of the text different colours. I have created a new file called Module_2c with the programs I have created since the first update.
+
