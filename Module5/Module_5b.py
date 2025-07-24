@@ -4,7 +4,7 @@
 # This contains code snippets I create as I follow the video
 
 my_agenda = []
-
+print("My agenda for the day")
 def printlist():
     print()
     for item in my_agenda:
@@ -12,7 +12,7 @@ def printlist():
     print()
 
 while True:
-    menu = input("Add or remove?: ")
+    menu = input("Would you like to Add or Remove from your agenda?: ")
     if menu == "add":
         item = input("What's next on the agenda?: ")
         my_agenda.append(item)
@@ -44,14 +44,14 @@ printlist()
 # ===============================================================
 # This contains the code I created for the challenged posed in the video
 
-import os, time
+
 to_do_list = []
 
 def printlist():
     print()
     for item in to_do_list:
         print(item)
-        print()
+    print()
 
 while True:
     menu = input("to do list manager \n Do you want to view, add or edit the to do list?\n")
@@ -64,6 +64,8 @@ while True:
         item = input("What do you want to remove?: ")
         if item in to_do_list:
             to_do_list.remove(item)
+    else:
+        break
 
 
 # ===============================================================
