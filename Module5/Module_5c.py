@@ -1,17 +1,16 @@
 # ===============================================================
-# Video Follow Along: Day 1 - Print and the Workspace
+# Video Follow Along: Day 34 - pretty printing
 # ===============================================================
 # This contains code snippets I create as I follow the video
 
+
+
 # ===============================================================
-# Video Day 1 Challenge: Statement of Intent Challenge
+# Video Day 34 Challenge: pretty printing
 # ===============================================================
 # This contains the code I created for the challenged posed in the video
 
-# ===============================================================
-# Sandpit:
-# ===============================================================
-# This is an area where I am playing and exploring in code
+
 
 # ===============================================================
 # Programs
@@ -24,11 +23,3 @@
 # ===============================================================
 
 
-Weekly Update:
-# Go to the correct directory
-cd C:\Users\Lenovo User\Desktop\Natasha_Python\DofE_Skills_Python
-# Make a commit and add message about what is new since last commit
-git add -A
-git commit -m "message"
-git push origin if __name__ == '__main__':
-    
