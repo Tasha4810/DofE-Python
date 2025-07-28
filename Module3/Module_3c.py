@@ -54,3 +54,5 @@ if favshow == "ducktales":
 # ===============================================================
 # These are programs I create for assessment
 
+# --- James ---
+# I at least seem to be learning some DuckTales lore from this.......so I guess I know something about Webby now....

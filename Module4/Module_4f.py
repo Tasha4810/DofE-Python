@@ -53,3 +53,6 @@ print(f"\nYou paid £{extra_paid} in interest.")
 #3)generates a sequence of number from 0 to less than the number????  <----- explain better
 #4) for i in range(5):
 #       print("Hello world")
+
+# --- James ---
+# For loops! God, they're great. Excited to see where we're going with this

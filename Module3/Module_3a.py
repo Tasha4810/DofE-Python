@@ -64,3 +64,15 @@ else:
 # Quiz Module XXX: This contains the answers to my end of module quiz
 # ===============================================================
 
+# --- James ---
+# Now we're getting into the real stuff! If statements are the backbone of coding.
+# One change I would make to the Programme above is to add a small amount of handling for things like upper and lower cases.
+# This just avoids the fav_food being "rice" and the guess being "Rice" and this being interpreted as a wrong answer.
+# Here's a small example:
+print("I am going to ask you for your favourite type of music. Then the next player is going to guess and see how well they know you.")
+music = input("Tasha, what is your favourite genre of music?: ")
+guess = input("Thanks, now Donal.\nWhat would you say is Tasha's favourite genre of music?: ")
+if music.lower() == guess.lower():
+    print("Donal knows you really well!")
+else:
+    print("You hardly even know your own daughter. :(")

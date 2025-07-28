@@ -55,3 +55,7 @@ if game == "yes" or game == "Yes":
 # Quiz Module XXX: This contains the answers to my end of module quiz
 # ===============================================================
 
+# --- James ---
+# Great to see the way this is building
+# Only comment would be to hghlight again that Python has lots of nice in-built functions you can use like .lower() to make comparisons easier.
+# https://docs.python.org/3/library/string.html

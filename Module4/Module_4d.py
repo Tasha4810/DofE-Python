@@ -127,4 +127,47 @@ print("Hope you have enjoyed the games ")
 # Quiz Module XXX: This contains the answers to my end of module quiz
 # ===============================================================
 
+# --- James ---
+# Okay things are getting pretty spicy now!
+# That's a mammoth of a function up there, did you type out all the options yourself?
+# It has however made me angry as it is so complicated and long!
+# Here's me soothing myself by making it even more complicated but shorter
 
+# Creating a dictionary of what different combinations win. The keys here are two inputs, the value is the index of the move that wins.
+# Doing is that way you don't have to write RS and SR, as they're opposites.
+outcomes = {
+    "RS": 0,
+    "RP": 1,
+    "RR": None,
+    "PS": 1,
+    "PP": None,
+    "SS": None
+}
+names = {
+    "R": "Rock",
+    "S": "Scissors",
+    "P": "Paper"
+}
+
+
+def quick_RPS_check(player_number):
+    valid_input = False
+    while not valid_input:
+        print(f"Player {player_number}, select a move (R, P or S)")
+        choice  = input()
+        if choice.upper() in ["R", "P", "S"]:
+            valid_input = True
+        else:
+            print("Invalid input, please re-enter (valid inputs are R, P or S)")
+    return choice
+
+# Start the game
+print("\nJames has written a game of rock, paper, scissors between two players.")
+print("Player 1 and Player 2 will each select a move in turn (don't let each other see)")
+p1 = quick_RPS_check(1)
+p2 = quick_RPS_check(2)
+print(f"Player 1 played {names[p1]} and Player 2 played {names[p2]}")
+winner = outcomes[p1+p2]
+plays = [names[p1], names[p2]]
+print(f"Player {winner+1} wins because {plays[winner]} beats {plays[not winner]}")
+# That last plays[not winner] line is a cheeky one!

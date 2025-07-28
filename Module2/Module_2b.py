@@ -46,3 +46,10 @@ plant = input("name a plant :")
 tool = input("name a DIY tool :")
 print("your rockstar name is:",character,plant, tool)
 
+
+# --- JAMES ---
+# I've learned something again! Wasn't aware that you could just pass arguments into the print() function and it will concatenate them with nice spaces added. Very cool.
+# I'm a big fan of the f"" notation for formatting strings as it makes it really clear how the variables are inserted into the text.
+coder_name = "Natasha"
+assesment = "great"
+print(f"James thinks that {coder_name} is making {assesment} progress", "and", "wanted", "to", "test", "what", "she", "taught", "him", ".")

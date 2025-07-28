@@ -55,3 +55,10 @@ you rock
 #3 print("I am 13 years old" - this won't work as it is missing a bracket at the end
 
 
+# Hey Tasha, James here.
+# I am going to be adding some comments to the end of your files after I've finished looking at them :), hope that's okay.
+# I learned something from looking at this as I was not aware that Python would retain new-line characters in my .py files
+# and then include them in the print() formatting. It makes a lot of sense though.
+
+# I can see that you have got the hand of the syntax as all the Quiz Module 1 questions are correct.
+

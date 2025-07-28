@@ -47,5 +47,25 @@ print(f"that","\033[35m",f"{name}","\033[0m",f" has the power of","\033[31m",f" 
 # Quiz Module XXX: This contains the answers to my end of module quiz
 # ===============================================================
 
+# --- James ---
+# This was my final battle:
+#   == Your final battle story ==
+#    You'll be asked a bunch of questions then we'll make
+#    you up an amazing battle with you as the star
+#
+#   Whats your name: James
+#   Whats your worst enemy's name: Donal
+#    Whats your superpower or skill: Lady Hands
+#
+#   The final battle
+#
+#   Our story begins as our   hero James  approaches a foreboding castle.....
+#   Suddenly a bolt of lightning struck the ground at the feet of James
+#   'Our final battle has begun!' shouts the  evil Donal   clearly missing the fact
+#   that  James   has the power of   Lady Hands   which means they'll win quite easily.
+
+# The colours are actually a very useful thing to learn when asking fo input and responding to the user as you can make warnings and questions appear very differentl.
+# Something to be aware of is that the Pycharm built in Console will respond differently for the colours compared to if you run the python script from a Windows Command Terminal.
+
 
 
