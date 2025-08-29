@@ -10,6 +10,7 @@
 # ===============================================================
 # This contains the code I created for the challenged posed in the video
 
+# this is also the program to be assessed
 mystery_number = int(input("Please enter a number between 1 and 1 million for the other person to guess:"))
 print("One-Million-To-One")
 print()

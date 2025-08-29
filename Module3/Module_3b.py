@@ -35,6 +35,7 @@ if username == "mark" and password =="totallynotbald":
 # ===============================================================
 # These are programs I create for assessment
 
+#Program 10
 print("ROCK PAPER SCISSORS")
 game = input("would you like to play rock paper scissors: ")
 if game == "yes" or game == "Yes":
@@ -59,3 +60,6 @@ if game == "yes" or game == "Yes":
 # Great to see the way this is building
 # Only comment would be to hghlight again that Python has lots of nice in-built functions you can use like .lower() to make comparisons easier.
 # https://docs.python.org/3/library/string.html
+
+# --- NATASHA ---
+# Thanks for the feedback will try to incorporate it in Modules 7 & 8

@@ -51,6 +51,7 @@ else:
 # ===============================================================
 # These are programs I create for assessment
 
+#Program 9
 print("I am going to ask for your favourite food can you type it in when asked"
       " make sure the second player doesnt see it")
 fav_food = input("Please type in your favourite food: ")
@@ -76,3 +77,8 @@ if music.lower() == guess.lower():
     print("Donal knows you really well!")
 else:
     print("You hardly even know your own daughter. :(")
+
+# --- NATASHA ---
+# Ok James good to know. I think in later programs I have included both the upper and lower case versions but this would probably
+# work better and be easier for me to use. :)
+

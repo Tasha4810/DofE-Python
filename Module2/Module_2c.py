@@ -25,6 +25,8 @@ print("\033[35m","hey James i am writing in purple")
 # Programs
 # ===============================================================
 # These are programs I create for assessment
+
+# Program 8
 print("\033[0m")
 print("== Your final battle story ==")
 print(""" You'll be asked a bunch of questions then we'll make 
@@ -67,5 +69,6 @@ print(f"that","\033[35m",f"{name}","\033[0m",f" has the power of","\033[31m",f" 
 # The colours are actually a very useful thing to learn when asking fo input and responding to the user as you can make warnings and questions appear very differentl.
 # Something to be aware of is that the Pycharm built in Console will respond differently for the colours compared to if you run the python script from a Windows Command Terminal.
 
-
+# --- NATASHA ---
+# Ok James thanks for the heads up and feedback
 

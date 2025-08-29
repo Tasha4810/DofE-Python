@@ -3,12 +3,12 @@
 # ===============================================================
 # This contains code snippets I create as I follow the video
 
-# Program 1
+# Program 6
 name = input("what's your name?:")
 lunch = input("what are you having for lunch?:")
 print(name, "is going to be chowing down on" ,lunch, "very soon")
 
-# Program 2
+# Program 7
 name = input("what's your name?:")
 year = input("what year is it?:")
 print(name, "thinks it is", year)
@@ -53,3 +53,6 @@ print("your rockstar name is:",character,plant, tool)
 coder_name = "Natasha"
 assesment = "great"
 print(f"James thinks that {coder_name} is making {assesment} progress", "and", "wanted", "to", "test", "what", "she", "taught", "him", ".")
+
+#--- NATASHA ---
+# Thanks for the feedback :)

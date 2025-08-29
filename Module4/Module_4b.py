@@ -46,6 +46,7 @@ print("You have ended the program if you wish to play again re run the program."
 # ===============================================================
 # These are programs I create for assessment
 
+#Program 12
 number = int(input("please enter a positive number: "))
 counter = 1
 if number < 0:
@@ -55,6 +56,7 @@ else:
         print(counter)
         counter += 1
 
+#Program 13
 number = int(input("Please can you enter a number between 1 and 10: "))
 guess_number = int(input("Please enter a number between 1 and 10 as your guess: "))
 if guess_number == number:
@@ -95,3 +97,6 @@ if guess_number == number:
     print("Well done you have guessed the number correctly")
 else:
     print("Your guess is not quite right, Please try again")
+
+# --- NATASHA ---
+# Ok, thanks for the feedback James.

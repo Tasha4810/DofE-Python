@@ -56,3 +56,6 @@ if favshow == "ducktales":
 
 # --- James ---
 # I at least seem to be learning some DuckTales lore from this.......so I guess I know something about Webby now....
+
+#--- NATASHA ---
+# Nice to hear you are learning from this
